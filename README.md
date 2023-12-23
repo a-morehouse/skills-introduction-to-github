@@ -4,7 +4,7 @@
        .           *     .       .            .                   .
 .                i/|\i                                   .               .
       .    .     // \\*              https://learn.taggart-tech.com/p/creating-with-git
-                */( )\\      .         JUST DO IT JUST DO IT JUST DO IT         .            nice lights btw
+                */( )\\      .         ^^^^^ JUST DO IT (nice lights btw)         .
         .      i/*/ \ \i             *************************
  .             / /* *\+\             An Nodes, Points, User .
       .       */// + \*\\*           deren Familie und Freunde        .
