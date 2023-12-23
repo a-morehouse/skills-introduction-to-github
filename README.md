@@ -1,64 +1,184 @@
-<header>
+# Ghost of Christmas Past Haunts You
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+```
+ .       .        _+_        .                  .             .
+                  /|\
+       .           *     .       .            .                   .
+.                i/|\i                                   .               .
+      .    .     // \\*              https://learn.taggart-tech.com/p/creating-with-git
+                */( )\\      .         ^^^^^ JUST DO IT (nice lights btw)         .
+        .      i/*/ \ \i             *************************
+ .             / /* *\+\             An Nodes, Points, User .
+      .       */// + \*\\*           deren Familie und Freunde        .
+             i/  /^  ^\  \i    .               ... . ...
+.        .   / /+/ ()^ *\ \                 ........ .
+            i//*/_^- -  \*\i              ...  ..  ..               .
+    .       / // * ^ \ * \ \             ..
+          i/ /*  ^  * ^ + \ \i          ..     ___            _________
+          / / // / | \ \  \ *\         >U___^_[[_]|  ______  |_|_|_|_|_|
+   ____(|)____    |||                  [__________|=|______|=|_|_|_|_|_|=
+  |_____|_____|   |||                   oo OOOO oo   oo  oo   o-o   o-o
+ -|     |     |-.-|||.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+  |_____|_____|
+```
 
-# Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
 
-</header>
+```
+          .     .  .      +     .      .          .
+     .       .      .     #       .           .
+        .      .         ###            .      .      .
+      .      .   "#:. .:##"##:. .:#"  .      .
+          .      . "####"###"####"  .
+       .     "#:.    .:#"###"#:.    .:#"  .        .       .
+  .             "#########"#########"        .        .
+        .    "#:.  "####"###"####"  .:#"   .       .
+     .     .  "#######""##"##""#######"                  .
+                ."##"#####"#####"##"           .      .
+    .   "#:. ...  .:##"###"###"##:.  ... .:#"     .
+      .     "#######"##"#####"##"#######"      .     .
+    .    .     "#####""#######""#####"    .      .
+            .     "      000      "    .     .
+       .         .   .   000     .        .       .
+.. .. ..................O000O........................ ......
+```
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+```
+    |,\/,| |[_' |[_]) |[_]) \\//
+    ||\/|| |[_, ||'\, ||'\,  ||
 
-## Finish
+            ___ __ __ ____  __  __  ____  _  _    __    __
+           // ' |[_]| |[_]) || ((_' '||' |,\/,|  //\\  ((_'
+           \\_, |[']| ||'\, || ,_))  ||  ||\/|| //""\\ ,_))
 
-_Congratulations, you've completed this course and joined the world of developers!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+                                         ,;7,
+                                       _ ||:|,
+                     _,---,_           )\'  '|
+                   .'_.-.,_ '.         ',')  j
+                  /,'   ___}  \        _/   /
+      .,         ,1  .''  =\ _.''.   ,"';_ |
+    .'  \        (.'T ~, (' ) ',.'  /     ';',
+    \   .\(\O/)_. \ (    _Z-'">--, .'',      ;
+     \  |   I  _|._>;--'",-j-'    ;    ',  .'
+    __\_|   _.'.-7 ) "'-' "       (      ;'
+  .'.'_.'|.' .'   \ ',_           .'\   /
+  | |  |.'  /      \   \          l  \ /
+  | _.-'   /        '. ('._   _ ,.'   \i
+,--' ---' / k  _.-,.-|__L, '-' ' ()    ;
+ '._     (   ';   (    _-}             |
+  / '     \   ;    ',.__;         ()   /
+ /         |   ;    ; ___._._____.: :-j
+|           \,__',-' ____: :_____.: :-\
+|               F :   .  ' '        ,  L
+',             J  |   ;             j  |
+  \            |  |    L            |  J
+   ;         .-F  |    ;           J    L
+    \___,---' J'--:    j,---,___   |_   |
+              |   |'--' L       '--| '-'|
+               '.,L     |----.__   j.__.'
+                | '----'   |,   '-'  }
+                j         / ('-----';
+               { "---'--;'  }       |
+               |        |   '.----,.'
+               ',.__.__.'    |=, _/
+                |     /      |    '.
+                |'= -x       L___   '--,
+          snd   L   __\          '-----'
+                 '.____)
 
-Here's a recap of your accomplishments:
+```
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+```
+             /\
+            <  >
+             \/
+             /\
+            /  \
+           /++++\
+          /  ()  \
+          /      \
+         /~"~"~"~"\
+        /  ()  ()  \
+        /          \
+       /*&*&*&*&*&*&\
+      /  ()  ()  ()  \
+      /              \
+     /++++++++++++++++\
+    /  ()  ()  ()  ()  \
+    /                  \
+   /~"~"~"~"~"~"~"~"~"~"\
+  /  ()  ()  ()  ()  ()  \
+  /*&*&*&*&*&*&*&*&*&*&*&\
+ /                        \
+/,.,.,.,.,.,.,.,.,.,.,.,.,.\
+           |   |
+          |"""""|
+          \_____/
+```
 
-### What's next?
+```
+       _____________,--,
+      | | | | | | |/ .-.\   HANG IN THERE
+      |_|_|_|_|_|_/ /   ".      SANTA
+       |_|__|__|_; |      \
+       |___|__|_/| |     .'"}
+       |_|__|__/ | |   .'.'"\
+       |__|__|/  ; ;  / /    \.-"-.
+       ||__|_;   \ \  ||    /"___. \
+       |_|___/\  /;.",\\   {_'___.;{}
+       |__|_/ ";"__|"-.;|  |C" e e"\
+       |___"L  \__|__|__|  | "'-o-' }
+       ||___|\__)___|__||__|\   ^  /"\
+       |__|__|__|__|__|_{___}'.__."\_.'}
+       ||___|__|__|__|__;\_)-'"\   {_.-;
+       |__|__|__|__|__|/" ("\__/     '-'
+       |_|___|__|__/"      |
+-jgs---|__|___|__/"         \-------------------
+-.__.-.|___|___;"            |.__.-.__.-.__.-.__
+  |     |     ||             |  |     |     |
+-' '---' '---' \             /-' '---' '---' '--
+     |     |    '.        .' |     |     |     |
+'---' '---' '---' "-===-'"--' '---' '---' '---'
+  |     |     |     |     |     |     |     |
+-' '---' '---' '---' '---' '---' '---' '---' '--
+     |     |     |     |     |     |     |     |
+'---' '---' '---' '---' '---' '---' '---' '---'
+```
 
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+```
+                           .
+                          /)\
+                         / ( )
+                        /  ( (
+                       /   |) \
+                      /    | ( )
+                 ,=*""*=,_ |  )(
+                /         "*, ( )
+   /\          ( ___         =  (
+  (  )         ."   "*=,      \  )
+ ( "- )       /  ,,     "*=_  ;
+( "-._ )      ;  *@    ,,   \/
+("-._  )      ;     ,  @*   ;
+[------]      \             ;
+[____  ]       \  *===*    /
+ \__  /         ",       ,"
+  |\ |        ,=*        *=,
+  |\\|      ," .          . ",        /\
+  |_C"=._,-" /"            "\ \     .=""=.
+ (  \\      /                \ \   /\ /\ /\
+ (__)|.___.,|  *   .  .   *  |  ",|  |  |  |
+  |\ |       >.__,="  "=,__.<,     \/ \/ \/
+  |\\|       \      _       / "=,   "=__=")
+  \ \/        >,_  (X)   _,<     "*==-==*"
+  (__)     _="      "       "=_
+   ""     /                    \
+         /                      \
+        ,           _            ,
+        ;          (X)           ;
+        ;           "            ;
+         \                      /
+          =                    =
+           ",                ,"
+ __,- jjs -._ >=,        ,=<'_.---,,___
+```
